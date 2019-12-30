@@ -45,3 +45,6 @@
 Below links are what I used as authoritative guidance (in addition to all of the debugging articles by various contributors online either through their blogs or content collation networks like stackoverflow, stackshare etc. )
 
 - [Install KubeAdm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/)
+
+# More
+This [link](https://github.com/kinvolk/kubernetes-the-hard-way-vagrant) contains entire thing automated and more perfect
